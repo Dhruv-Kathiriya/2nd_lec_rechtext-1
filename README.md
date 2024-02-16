@@ -1,3 +1,4 @@
-<img src ="[https://github.com/Dhruv-Kathiriya/2nd_lec_rechtext-1.git](https://github.com/Dhruv-Kathiriya/2nd_lec_rechtext-1/assets/150034575/67f0704d-5ec0-4d07-832a-e5b36594b73d)" weight = "250px" >
+<img src ="https://github.com/Dhruv-Kathiriya/2nd_lec_rechtext-1/assets/150034575/acdbec96-1c00-44f9-b783-e109a8a91c81" weight = "250px" >
+
 
 
