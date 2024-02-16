@@ -1,16 +1,3 @@
-# flutter_application_rechtext
+<img src ="https://github.com/Dhruv-Kathiriya/2nd_lec_rechtext-1.git" weight = "350px" >
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/Dhruv-Kathiriya/2nd_lec_rechtext-1/assets/150034575/67f0704d-5ec0-4d07-832a-e5b36594b73d)
